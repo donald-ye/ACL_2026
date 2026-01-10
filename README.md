@@ -1,5 +1,7 @@
 # NLDD: Measuring Chain-of-Thought Faithfulness
 
+Preprint under review
+
 Code for computing Normalized Logit Difference Decay (NLDD) and related analyses.
 
 ## Overview
